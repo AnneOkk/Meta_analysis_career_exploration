@@ -1,4 +1,4 @@
-# Meta_analysis_career_exploration
+# Meta-analysis career exploration
 
 ## Online Appendix
 
